@@ -23,13 +23,13 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Senhor almoçando no Rio
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Craiyon
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Acessar site e digitar texto que será transformado em imagem "Old man eating in a lake"
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
